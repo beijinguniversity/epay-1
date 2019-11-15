@@ -22,7 +22,7 @@
             <div id="loginform">
                 <div class="logo">
                     <span class="db"><img src="/static/images/logo-icon.png" alt="logo"></span>
-                    <h5 class="font-medium mb-3"><?php echo $webName; ?>聚合支付平台</h5>
+                    <h5 class="font-medium mb-3"><?php echo $webName; ?></h5>
                 </div>
                 <div class="row">
                     <div class="col-12">
@@ -64,7 +64,7 @@
             <div id="recoverform">
                 <div class="logo">
                     <span class="db"><img src="/static/images/logo-icon.png" alt="logo"></span>
-                    <h5 class="font-medium mb-3">聚合支付平台</h5>
+                    <h5 class="font-medium mb-3">666</h5>
                     <span>看起来您忘记了忘记了密匙<br>您需要联系管理员进行重置密匙。</span>
                 </div>
             </div>
