@@ -54,7 +54,7 @@ class Test extends Controller
         //商品名称
         $money = $getData['WIDtotal_fee'];
         //付款金额
-        $sitename = '小老弟支付测试站点';
+        $sitename = '彩虹自助下单支付测试站点';
         //站点名称
 
         $subMchID = input('post.subMchID/d', 0);
@@ -79,7 +79,7 @@ class Test extends Controller
         $pid     = $getData['pid'];
         //商户号
         $tradeNo = $getData['trade_no'];
-        //小老弟订单号
+        //彩虹自助下单订单号
         $tradeNoOut = $getData['out_trade_no'];
         //	商户系统内部的订单号
         $payType = $getData['type'];
@@ -109,7 +109,7 @@ class Test extends Controller
 //        $pid     = $getData['pid'];
 //        //商户号
 //        $tradeNo = $getData['trade_no'];
-//        //小老弟订单号
+//        //彩虹自助下单订单号
 //        $tradeNoOut = $getData['out_trade_no'];
 //        //	商户系统内部的订单号
 //        $payType = $getData['type'];

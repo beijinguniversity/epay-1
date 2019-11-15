@@ -209,7 +209,7 @@ class Index extends Controller
             }
             return json(['status' => 1, 'data' => $data]);
         }
-        return json(['status' => 0, 'data' => '你搞啥呢小老弟']);
+        return json(['status' => 0, 'data' => '你搞啥呢彩虹自助下单']);
     }
 
     public function getSettleInfo()
